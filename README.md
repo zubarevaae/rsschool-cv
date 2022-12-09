@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/zubarevaae.girhub.io/rsschool-cv/cv
