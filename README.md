@@ -1,1 +1,1 @@
-https://github.com/zubarevaae.girhub.io/rsschool-cv/cv
+https://github.com/zubarevaae.github.io/rsschool-cv/cv
