@@ -1,4 +1,11 @@
 # Anastasiia Zubareva
+"resource": [
+  {
+    "files" : [
+      "**/*.png",
+      "**/*.jpg,
+      "**/*.gif"
+    ],
 ![me](C:\Users\79134\Downloads\Telegram Desktop\me.jpg)
 ## Contact
 * +79134530408
